@@ -1,6 +1,6 @@
 [package]
 name = "weather_rust"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Weather program in rust using wttr.in and cURL"
 license = "MIT"
